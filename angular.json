@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "haidTest"
+    }
+  },
+  "defaultProject": "haidTest",
+  "cli": {
+    "analytics": "0178e792-5433-4b69-aa20-1fcef85d03b6"
+  }
 }
